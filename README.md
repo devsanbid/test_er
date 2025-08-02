@@ -18,7 +18,7 @@ This social media application is built using the PERN stack (PostgreSQL, Express
 
 
 ## Entity Relationship (ER) Diagram
-![Database Schema](./assets/erdiagram.svg)
+![Database Schema](./assets/er.png)
 
 ## Use Case Diagram
 ![Database Schema](./assets/usecase.svg)
