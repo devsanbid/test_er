@@ -14,13 +14,11 @@
 
 ## Application Overview
 
-![Application Architecture](./docs/images/app-architecture.svg)
-
 This social media application is built using the PERN stack (PostgreSQL, Express.js, React, Node.js) and provides a comprehensive platform for social networking with modern features and admin capabilities.
 
 
 ## Entity Relationship (ER) Diagram
-![Database Schema](./assets/erdiagram.png)
+![Database Schema](./assets/erdiagram.svg)
 
 ## Use Case Diagram
 ![Database Schema](./assets/usecase.svg)
